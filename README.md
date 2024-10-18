@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Hello! my name Baranov Maxim. I'm from Yekaterinburg. 
+
 <!--
 **bmamaxim/bmamaxim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
